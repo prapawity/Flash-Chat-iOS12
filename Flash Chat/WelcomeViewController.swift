@@ -22,4 +22,6 @@ class WelcomeViewController: UIViewController {
         super.didReceiveMemoryWarning()
     }
     
+    @IBAction func RegisterAction(_ sender: Any) {
+    }
 }
